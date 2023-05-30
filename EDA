@@ -1,0 +1,5 @@
+[click here](https://rpubs.com/Salsadswn)
+This project focuses on exploratory data analysis using the R programming language. 
+The goal is to understand and visualize the relationship between categorical variables such as "align" and "gender" in the "comics" dataset, as well as perform distribution analysis of numerical variables such as "id" in the "comics" dataset.
+" and the "cars" dataset. This project uses the R programming language and several R packages, including readr, dplyr, ggplot2, openintro, airports, cherryblossom, and usdata. R is a popular programming language for statistical analysis and data science, 
+while these packages provide useful functions and tools for data analysis and visualization.
